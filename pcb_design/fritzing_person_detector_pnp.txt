@@ -1,0 +1,24 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=fritzing_person_detector
+*Date=10:07:19
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;60.3147;-52.4012;90;Bottom;Ruler1
+2;;THT;73.1955;-105.159;0;Bottom;S1
+3;5V;;94.5605;-98.8085;0;Bottom;Part2
+4;;;27.4755;-105.159;0;Bottom;Hole1
+5;;molex-1x6;103.422;-78.4885;0;Bottom;U1
+6;;;54.1458;-94.8188;180;Bottom;E1
+7;;;57.9555;-37.8485;90;Bottom;Part1
+8;;;27.4755;-82.2985;0;Bottom;Hole2
+9;;THT;18.4054;-110.22;0;Bottom;J1
