@@ -6,7 +6,7 @@
  The youtube video giving instructions for building this project is here: <br>
  https://youtu.be/9ikQ7QFDbh4
 
- [![American Sign Language](https://img.youtube.com/vi/9ikQ7QFDbh/0.jpg)](https://youtu.be/9ikQ7QFDbh)
+ [![American Sign Language](https://i9.ytimg.com/vi/9ikQ7QFDbh4/mqdefault.jpg?sqp=CJCxsqYG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUyhCMA8=&rs=AOn4CLAVw6wvZfrMCdk3iZfqDkRPNoqZTA)](https://youtu.be/9ikQ7QFDbh)
 
 # Summary of direcotries in this repo.
 
