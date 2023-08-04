@@ -29,7 +29,11 @@ https://pcbway.com/g/QkVak7 <br>
 person detection training instructions: <br>
 https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/examples/person_detection/training_a_model.md <br>
 
+tflite instructions for microcontrollers: <br>
+https://www.tensorflow.org/lite/microcontrollers/get_started_low_level <br>
 
+Converting tensorflow to tflite interesting video: <br>
+[https://www.youtube.com/watch?v=bKLL0tAj3GE&t](https://youtu.be/bKLL0tAj3GE) <br>
 
 # Notes
 
