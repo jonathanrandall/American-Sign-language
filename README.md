@@ -19,6 +19,8 @@ This directory contains my updated version of the person detection sketch for ou
 ### pcb_design
 This directory contains my pcb design gerber files and fritzing file.
 
+### User_Setup.h is the update file for the TFT_eSPI library.
+
 # Links
 Kaggle dataset: <br>
 https://www.kaggle.com/datasets/datamunge/sign-language-mnist <br>
