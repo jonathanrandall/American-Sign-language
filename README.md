@@ -3,7 +3,7 @@
 
  I implement a tensorflow lite (tflite) model on the ESP32-cam for American Sign language. The model is a stand-alone model and requires no network connection to run. The projects uses a pcb from pcbway to connect the esp32-can to a tft lcd screen, thus eliminating much of the messy wiring.
 
- The youtube video giving instructions for building this project is here:
+ The youtube video giving instructions for building this project is here: <br>
  https://youtu.be/9ikQ7QFDbh4
 
 # Summary of direcotries in this repo.
