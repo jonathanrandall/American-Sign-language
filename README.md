@@ -37,14 +37,16 @@ Converting tensorflow to tflite interesting video: <br>
 
 # Notes
 
-I'm using board version 2.02 of the esp32. The higher versions had a bug with the TFT_eSPI library for outputing jpeg files. Although, I didn't end up using the jpeg files.
+I'm using board version 2.02 of the esp32. The higher versions had a bug with the TFT_eSPI library for outputting  jpeg files. Although, I didn't end up using the jpeg files. <br>
 
-The pin connections for the esp32 and tft are below. Note: if you are using the TFT_eSPI library, you need to define the pin connections in the User_Setup.h file.
+The pin connections for the esp32 and tft are below. Note: if you are using the TFT_eSPI library, you need to define the pin connections in the User_Setup.h file. <br>
+```c
 #define TFT_MISO 13
 #define TFT_MOSI 12
 #define TFT_SCLK 14
 #define TFT_CS   15  // Chip select control pin
 #define TFT_DC    2  // Data Command control pin
 #define TFT_RST   16  // Reset pin (could connect to RST pin)
-
+\\LED pin connected high
+```
  
