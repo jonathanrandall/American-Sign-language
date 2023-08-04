@@ -18,6 +18,15 @@ This directory contains my updated version of the person detection sketch for ou
 This directory contains my pcb design gerber files and fritzing file.
 
 # Links
+Kaggle dataset: <br>
+https://www.kaggle.com/datasets/datamunge/sign-language-mnist <br>
+
+pcbway: <br>
+https://pcbway.com/g/QkVak7 <br>
+
+person detection training instructions: <br>
+https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/examples/person_detection/training_a_model.md <br>
+
 
 
 # Notes
